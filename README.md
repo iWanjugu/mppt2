@@ -1,10 +1,12 @@
-#Moringa Prep Part Time 2
+#Welcome to the Moringa Prep Part-Time course!!!
 
-##WELCOME MPPT2 PEOPLES!!!
+I hope we're all excited about the course!
+We are **OVERLY ESTATIC** to have you guys join the Moringa Family :D :D :D.
 
-###additional Resources
+Find below a few *additional resources* that will help you out as you go through the course. We'll be adding more links as we go on.
 
-Here's a few additional links you could use to help out with a few things here and there :D
+
+###Week 1
 
 ####The terminal
 ####[1. Terminal Commands] (http://lifehacker.com/5633909/who-needs-a-mouse-learn-to-use-the-command-line-for-almost-anything)
@@ -16,3 +18,6 @@ Here's a few additional links you could use to help out with a few things here a
 ####Markdown:
 ####[1. Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
 ####[2. Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+####HTML
+####[1. Intro to HTML] ()
