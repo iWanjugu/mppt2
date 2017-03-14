@@ -13,7 +13,7 @@ Find below a few *additional resources* that will help you out as you go through
 
 #### GIT
 ####[1. Git and Github for beginners] (http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-####[1. A very simple guided Git challenge] (https://try.github.io/levels/1/challenges/1)
+####[2. A very simple guided Git challenge] (https://try.github.io/levels/1/challenges/1)
 
 ####Markdown:
 ####[1. Mastering Markdown] (https://guides.github.com/features/mastering-markdown/)
